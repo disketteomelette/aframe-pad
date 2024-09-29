@@ -1,5 +1,7 @@
 # Positional Audio Designer
 
+![Positional Audio Designer](screenshot.png)
+
 ## Overview
 
 This project provides a web-based tool for real-time control of audio positioning in a 3D space using A-Frame and Bootstrap. It allows users to manipulate audio sources, creating an immersive spatial audio experience where sounds can seem to come from different directions and distances.
