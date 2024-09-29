@@ -29,7 +29,7 @@ To run this script, ensure you have:
    cd positional-audio-tracking
    ```
 
-2. Launch a local web server instance and launch  `index.html` in your preferred web browser.
+2. Launch a local web server instance and navigate to  `index.html` in your preferred web browser.
 
 ## Usage
 
