@@ -20,6 +20,8 @@ To run this script, ensure you have:
 - A modern web browser with WebGL support.
 - An audio file named `sound.mp3` located in the same directory as the HTML file.
 
+To make it easier, and at the cost of increasing the script size and slightly longer loading times, we have included the minified code of the libraries in a monolithic file. No additional modules need to be installed to run the application
+
 ## Installation
 
 1. Clone the repository:
