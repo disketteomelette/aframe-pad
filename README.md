@@ -43,6 +43,10 @@ To run this script, ensure you have:
 
 - **Help**: Click the "Help" button for a quick guide on using the tool.
 
+## I want to save in real-time the positional audio
+
+You can record the positional audio you are playing in real-time. To do this, use a recording application like Audacity. Set the input to loopback, prepare a stereo audio track, and start recording. Then, launch PAD and make as many movements as you wish.
+
 ## Code Structure
 
 - A minimized version of A-frame and Bootstrap is included in the same file, so no dependencies.
